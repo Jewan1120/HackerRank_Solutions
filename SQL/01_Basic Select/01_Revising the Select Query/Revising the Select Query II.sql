@@ -4,7 +4,7 @@ Query the NAME field for all American cities in the CITY table with populations 
 
 The CITY table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | NAME        | VARCHAR2(17) |
