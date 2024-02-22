@@ -13,7 +13,8 @@ The CITY table is described as follows:
 +-------------+--------------+
 */
 
--- MySQL--
+# MySQL
+
 SELECT
     *
 FROM
