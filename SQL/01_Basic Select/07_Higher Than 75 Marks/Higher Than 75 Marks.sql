@@ -4,7 +4,7 @@ Query the Name of any student in STUDENTS who scored higher than 75 Marks. Order
 
 The STUDENTS table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | Integer      |
 | Name        | String       |

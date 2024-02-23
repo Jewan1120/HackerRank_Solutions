@@ -4,7 +4,7 @@ Query the list of CITY names from STATION which have vowels (i.e., a, e, i, o, a
 
 The STATION table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | CITY        | VARCHAR2(21) |

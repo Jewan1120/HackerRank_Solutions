@@ -4,7 +4,7 @@ Query the list of CITY names from STATION that do not end with vowels. Your resu
 
 The STATION table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | CITY        | VARCHAR2(21) |

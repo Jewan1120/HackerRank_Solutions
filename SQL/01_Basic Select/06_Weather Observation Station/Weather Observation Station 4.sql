@@ -4,7 +4,7 @@ Find the difference between the total number of CITY entries in the table and th
 
 The STATION table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | CITY        | VARCHAR2(21) |

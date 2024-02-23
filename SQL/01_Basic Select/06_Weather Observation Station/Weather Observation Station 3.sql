@@ -4,7 +4,7 @@ Query a list of CITY names from STATION for cities that have an even ID number. 
 
 The STATION table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | CITY        | VARCHAR2(21) |

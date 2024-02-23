@@ -4,7 +4,7 @@ Query the list of CITY names ending with vowels (a, e, i, o, u) from STATION. Yo
 
 The STATION table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | CITY        | VARCHAR2(21) |

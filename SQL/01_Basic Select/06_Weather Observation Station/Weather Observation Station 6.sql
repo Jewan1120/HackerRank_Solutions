@@ -4,7 +4,7 @@ Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from 
 
 The STATION table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | CITY        | VARCHAR2(21) |

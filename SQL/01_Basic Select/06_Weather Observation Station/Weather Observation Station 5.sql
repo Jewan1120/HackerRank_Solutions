@@ -4,7 +4,7 @@ Query the two cities in STATION with the shortest and longest CITY names, as wel
 
 The STATION table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | ID          | NUMBER       |
 | CITY        | VARCHAR2(21) |

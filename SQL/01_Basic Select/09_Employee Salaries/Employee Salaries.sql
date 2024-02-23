@@ -4,7 +4,7 @@ Write a query that prints a list of employee names (i.e.: the name attribute) fo
 
 The STUDENTS table is described as follows:
 +-------------+--------------+
-| Feild       | Type         |
+| Field       | Type         |
 +-------------+--------------+
 | employee_id | Integer      |
 | name        | String       |
